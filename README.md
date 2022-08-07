@@ -16,7 +16,7 @@ The project I will be explaining is public available at:
 
 https://app.metalend.finance/
 
-With at the time of writing a total value of 100 000 dollar which has been decreasing since the crypto crash.
+With at the time of writing a total value of 100 000 dollar.
 
 # Steps user interface
 
